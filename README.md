@@ -91,7 +91,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/XuQian2002/xiaodai-xiangqi.git
+git clone https://github.com/XuQian2002/xiaoxu-xiangqi.git
 cd xiaodai-xiangqi
 
 # 2. 配置 SDK 路径（或直接用 Android Studio 打开工程）
