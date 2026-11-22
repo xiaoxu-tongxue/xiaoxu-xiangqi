@@ -305,13 +305,14 @@
 2. 下载 `xiaodai-xiangqi-3.0-nomusic.apk`；
 3. 在手机上允许「安装未知来源应用」后安装；
 4. 首次启动会展示使用说明（45 秒倒计时），随后选择对战模式即可开局。
+5. 若手机里装过旧版安装包，请先卸载再装本版：本版重新签名，新旧签名不一致会提示「应用未安装」。
 
 APK 直链：[`releases/download/v3.0/xiaodai-xiangqi-3.0-nomusic.apk`](https://github.com/xiaoxu-tongxue/xiaoxu-xiangqi/releases/download/v3.0/xiaodai-xiangqi-3.0-nomusic.apk)
 
-安装包 SHA-256（125,417,525 字节，约 119.6 MB）：
+安装包 SHA-256（125,368,174 字节，约 119.6 MB）：
 
 ```text
-e100ed92a1d1b755763782a69b2f3f80dce1ffba57b457b85bd2b08fa38961e8
+95b6c96f84edf7acc0611ff321ef0b9de98ae0ef823bdcbd4041d8a8aeb4016f
 ```
 
 ```bash
