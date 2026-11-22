@@ -60,3 +60,9 @@ signing.properties
 *.gz
 *.jar
 !gradle/wrapper/gradle-wrapper.jar
+
+# README 展示素材（仅供文档展示，允许入库）
+!docs/images/
+!docs/images/*.jpg
+!docs/images/*.gif
+!docs/images/*.mp4
