@@ -193,10 +193,11 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/xiaoxu-tongxue/xiaoxu-xiangqi/main/docs/images/15-muted.jpg" width="300" alt="图 13 · 点声音总开关"></div>
 
-<div align="center"><sub>图 13 · 点声音总开关</sub></div>
+<div align="center"><sub>图 13 · 已静音</sub></div>
+
 <div align="center"><img src="https://raw.githubusercontent.com/xiaoxu-tongxue/xiaoxu-xiangqi/main/docs/images/16-voice-off.jpg" width="300" alt="图 14 · 单独关闭语音播报"></div>
 
-<div align="center"><sub>图 13 · 已静音　│　图 14 · 已关闭播报</sub></div>
+<div align="center"><sub>图 14 · 已关闭播报</sub></div>
 
 顶栏右侧两个图标分别是**语音播报**与**声音总开关**：点右边喇叭，落子/吃子音效整体静音，提示「已静音」，两个图标同时变为静音态；点左边人声图标，单独关闭或开启语音播报，提示「已关闭播报」。总开关关闭时再点语音，会先弹出「所有声音已关闭，请先打开声音总开关后重试」，避免误以为语音坏了。
 
