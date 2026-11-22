@@ -14,7 +14,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 [**⬇️ 下载安装包（v3.0）**](https://github.com/xiaoxu-tongxue/xiaoxu-xiangqi/releases/latest) ·
-[**▶️ 功能演示（32 秒）**](https://raw.githubusercontent.com/xiaoxu-tongxue/xiaoxu-xiangqi/main/docs/images/demo.mp4) ·
+[**▶️ 下载演示视频（32 秒）**](https://raw.githubusercontent.com/xiaoxu-tongxue/xiaoxu-xiangqi/main/docs/images/demo.mp4) ·
 [**🐞 反馈问题**](https://github.com/xiaoxu-tongxue/xiaoxu-xiangqi/issues)
 
 <img src="https://raw.githubusercontent.com/xiaoxu-tongxue/xiaoxu-xiangqi/main/docs/images/01-fields.jpg" width="270" alt="双人对弈">
@@ -79,7 +79,7 @@
 28–32s  悔棋确认弹窗 → 取消 → 一键翻转棋盘视角
 ```
 
-> 完整视频（720×1560，32 秒，约 350 KB）：[demo.mp4](https://raw.githubusercontent.com/xiaoxu-tongxue/xiaoxu-xiangqi/main/docs/images/demo.mp4)
+> 完整视频（720×1560，32 秒，约 350 KB，点击下载）：[demo.mp4](https://raw.githubusercontent.com/xiaoxu-tongxue/xiaoxu-xiangqi/main/docs/images/demo.mp4)
 
 ---
 
