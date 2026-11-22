@@ -91,8 +91,8 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/XuQian2002/xiaoxu-xiangqi.git
-cd xiaodai-xiangqi
+git clone https://github.com/xiaoxu-tongxue/xiaoxu-xiangqi.git
+cd xiaoxu-xiangqi
 
 # 2. 配置 SDK 路径（或直接用 Android Studio 打开工程）
 echo "sdk.dir=/path/to/android-sdk" > local.properties
@@ -113,7 +113,7 @@ Windows 环境把 `gradle` 换成 `gradle.bat`，参数相同。
 ## 项目结构
 
 ```
-xiaodai-xiangqi/
+xiaoxu-xiangqi/
 ├── app/
 │   ├── build.gradle.kts                 # 模块构建脚本（未配置签名）
 │   ├── proguard-rules.pro               # 混淆规则
