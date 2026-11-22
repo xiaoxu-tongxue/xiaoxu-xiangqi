@@ -17,9 +17,9 @@
 [**▶️ 观看 30 秒功能演示**](https://aka.doubaocdn.com/s/8TxoeLD1C6) ·
 [**🐞 反馈问题**](https://github.com/xiaoxu-tongxue/xiaoxu-xiangqi/issues)
 
-<img src="https://aka.doubaocdn.com/s/WIsTAAhfGQ" width="270" alt="双人对弈">
-<img src="https://aka.doubaocdn.com/s/eDd3rlrqe0" width="270" alt="将军瞬间">
-<img src="https://aka.doubaocdn.com/s/1DDFNfzKDJ" width="270" alt="AI 难度选择">
+<img src="https://aka.doubaocdn.com/s/QTZdg4DubH" width="270" alt="双人对弈">
+<img src="https://aka.doubaocdn.com/s/s3u32OXvtj" width="270" alt="将军瞬间">
+<img src="https://aka.doubaocdn.com/s/zUC63cXfr9" width="270" alt="AI 难度选择">
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://aka.doubaocdn.com/s/zlJ6EyeokL" width="360" alt="功能演示 GIF">
+<img src="https://aka.doubaocdn.com/s/Fpr7fFuVUN" width="360" alt="功能演示 GIF">
 
 </div>
 
@@ -80,7 +80,7 @@
 28–32s  悔棋确认弹窗 → 取消 → 一键翻转棋盘视角
 ```
 
-> 完整视频（560px，10fps，MP4）：[demo.mp4](https://aka.doubaocdn.com/s/8TxoeLD1C6)
+> 完整视频（720×1560，32 秒，约 350 KB）：[demo.mp4](https://aka.doubaocdn.com/s/8TxoeLD1C6)
 
 ---
 
@@ -88,13 +88,13 @@
 
 ### 1. 选择模式：人机还是双人
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/PHefnB1P5u" width="300" alt="模式选择"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/wOcTaamRM0" width="300" alt="模式选择"></div>
 
 启动即进入模式选择：**我执红先手 vs AI**、**我执黑后手 vs AI**、**双人对战**。顶栏「小呆象棋」居中，左侧为棋盘翻转，右侧为语音播报开关、静音键与「关于」。
 
 ### 2. 五档难度，棋力靠思考时长分层
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/1DDFNfzKDJ" width="300" alt="AI 难度"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/zUC63cXfr9" width="300" alt="AI 难度"></div>
 
 | 档位 | 每步思考 | 适合谁 |
 | --- | --- | --- |
@@ -106,77 +106,77 @@
 
 同一档位内思考时长还会随局面复杂度自适应：局面简明时偏快，纠缠、被将军或兑子时偏慢，且不越出该档区间。
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/oy6DU1GUnz" width="300" alt="人机对局"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/AtV8Oxq32g" width="300" alt="人机对局"></div>
 
 进入人机对局后，右上方卡片会标出「AI 黑方」与「人机 · 专业」等难度信息，底部按钮自动换成 **新游戏 / 提示 / 悔棋**——「提示」只在人机模式出现，会先本地思考约 4.5–5.5 秒，再给出一步参考着法。
 
 ### 3. 选中即所见：可行落点 + 走法标注
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/NBMniyVNAB" width="300" alt="落点提示"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/j3CVFxS7HV" width="300" alt="落点提示"></div>
 
 点任意棋子，棋盘立刻用准星标出**该子的全部合法落点**，并在每个落点旁直接写出这步棋的记谱名（如上图的「进九」「进七」）。不用记规则也能看懂这匹马能跳哪。
 
 ### 4. 走错不吞回去，当场说清原因
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/9BexQJNc9y" width="300" alt="走错子提示"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/NitXdtEwnc" width="300" alt="走错子提示"></div>
 
 把兵硬推两格、马腿被别着硬跳、炮没有炮架还想吃子——这类走法一律不被执行，并在棋盘下方以楷体提示条说明原因。全部 19 条提示语见下方[速查表](#走法提示速查表)。
 
 ### 5. 将军一目了然
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/eDd3rlrqe0" width="300" alt="将军"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/s3u32OXvtj" width="300" alt="将军"></div>
 
 形成将军时：状态条变为「**红方将军！**」，被将一方的将/帅被红圈圈出，被吃子标记与棋钟同时更新，并触发语音播报「将军」。
 
 ### 6. 被将军时不许乱走
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/AL90VzDZvl" width="300" alt="须应将"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/Q43dN4qLuS" width="300" alt="须应将"></div>
 
 己方被将军时去动别的棋子，会收到「**将军！须走应将着法**」的提示并伴随语音「保护将军」；若硬要走一步走完后仍被将的棋，语音会念「不可送将」，该步不予执行。
 
 ### 7. 悔棋：先问一句再退
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/oyq5DMl62Z" width="300" alt="悔棋确认"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/ZInWV8Fspy" width="300" alt="悔棋确认"></div>
 
 点「悔棋」先弹确认框，避免误触。人机对局回退一个回合（连 AI 的应手一起撤），双人对局回退一步。
 
 ### 8. 一键翻转 + 文字朝向可选
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/DV3lbyEqIC" width="300" alt="翻转视角"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/y1GfZEQVXW" width="300" alt="翻转视角"></div>
 
 双人面对面下棋时，点「翻转」立即交换红黑视角；左上角图标可切换「**文字随座位翻转**」（双方文字各朝自己）与「**文字固定正向**」（全盘文字统一朝向，如上图）。
 
 ### 9. 中文记谱，随时复盘
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/pkQMarif7v" width="300" alt="棋谱"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/uqSHBb0YAN" width="300" alt="棋谱"></div>
 
 棋盘下方常驻棋谱，红黑分色、按回合两列排布；点「全部 »」弹出整局棋谱，可逐回合复盘。记谱完全按传统汉字写法（兵伍进壹、傌八进柒）。
 
 ### 10. 新游戏会先确认，不误删当前对局
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/w1cQ51jd6e" width="300" alt="新游戏确认"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/AZuzYhOi2l" width="300" alt="新游戏确认"></div>
 
 对局未结束时点「新游戏」，先弹「放弃这一局？当前棋局还没下完，开新局会结束它」，确认后才重开。
 
 ### 11. 关于页：把项目说清楚，也把联系方式留给你
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/qVkKPFppX5" width="300" alt="关于页"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/hH0xKyBkWz" width="300" alt="关于页"></div>
 
 关于页交代了模式、辅助功能、记谱与语音、规则判决、技术实现五个部分，附免责声明与开发者联系方式（QQ / QQ 邮箱 / Gmail / HelloTalk，二维码可复制、可保存到相册）。
 
 ### 12. 首次启动：先把功能和规则讲清楚
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/lRAvilIGrd" width="380" alt="首次启动说明"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/xRFUayVgt9" width="380" alt="首次启动说明"></div>
 
 第一次打开应用会先进入一页完整说明：模式、对局辅助、记谱与语音、规则判决、技术实现逐条列明，底部按钮带 34 秒倒计时（图中显示剩余 41 秒），读完才可进入。往下滑是同页的联系方式与免责声明，可复制 QQ、邮箱地址。
 
 ### 13. 音效静音与语音播报，各自独立开关
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/g5NYMDlO5U" width="300" alt="已静音"><img src="https://aka.doubaocdn.com/s/KVbMt5HWj3" width="300" alt="已关闭播报"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/KqzeftrrUA" width="300" alt="已静音"><img src="https://aka.doubaocdn.com/s/ULeusLRoUY" width="300" alt="已关闭播报"></div>
 
 顶栏右侧两个图标分别是**语音播报**与**声音总开关**：点右图标，落子/吃子音效整体静音，提示「已静音」，两个图标同时变为静音态；点左图标，单独关闭或开启语音播报，提示「已关闭播报」。总开关关闭时再点语音，会先弹出「所有声音已关闭，请先打开声音总开关后重试」，避免误以为语音坏了。
 
-<div align="center"><img src="https://aka.doubaocdn.com/s/UidBbIVwt1" width="380" alt="声音总开关提示"></div>
+<div align="center"><img src="https://aka.doubaocdn.com/s/fZy2ZLiErH" width="380" alt="声音总开关提示"></div>
 
 ---
 
