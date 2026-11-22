@@ -21,8 +21,6 @@
 <img src="https://aka.doubaocdn.com/s/eDd3rlrqe0" width="270" alt="将军瞬间">
 <img src="https://aka.doubaocdn.com/s/1DDFNfzKDJ" width="270" alt="AI 难度选择">
 
-<sub>以上均为应用真实运行截图（Android 14 · 1080×2340），非效果图、非 AI 生成图</sub>
-
 </div>
 
 ---
@@ -70,8 +68,6 @@
 <img src="https://aka.doubaocdn.com/s/zlJ6EyeokL" width="360" alt="功能演示 GIF">
 
 </div>
-
-一段连续的真实运行录像（无剪辑、无加速）：
 
 ```text
 0–4s    双人对局开局，红方在下方，双方棋钟独立计时
@@ -171,7 +167,7 @@
 
 ## 走法提示速查表
 
-以下提示语均为应用内的**真实文案**（`values/strings.xml` 与 `MoveRules.kt` 一一对应）：
+以下为应用内全部走法提示语：
 
 | 场景 | 提示语 |
 | --- | --- |
